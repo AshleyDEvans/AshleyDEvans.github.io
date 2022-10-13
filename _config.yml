@@ -96,9 +96,9 @@ lang: en-GB # Set the site language
 title: "Ashley Evans" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://ashleydevans.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
+repo: "https://github.com/AshleyDEvans/AshleyDEvans.github.io"
 email: "AshleyDaviesEvans@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
@@ -123,14 +123,14 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
+- title: CV
+  url: /cv/
+- title: Photos
+  url: /photos/
+#- title: Categories
+#  url: /categories/
+#- title: Search
+#  url: /search/
 #- title: Fork Alembic
 #  url: https://github.com/daviddarnes/alembic
 
