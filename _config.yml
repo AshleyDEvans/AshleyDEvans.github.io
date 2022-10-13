@@ -125,6 +125,7 @@ navigation_header:
   url: /
 - title: CV
   url: /cv/
+  file: "AshleyEvans_CV.md"
 - title: Photos
   url: /photos/
 #- title: Categories
