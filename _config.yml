@@ -124,7 +124,7 @@ navigation_header:
 - title: Home
   url: /
 - title: CV
-  url: /cv/
+  url: "/AshleyEvans_CV.pdf"
 - title: Photos
   url: /photos/
 #- title: Categories
