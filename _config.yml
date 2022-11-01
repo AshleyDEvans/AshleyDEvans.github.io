@@ -127,8 +127,8 @@ navigation_header:
   url: "/AshleyEvans_CV.pdf"
 - title: Photos
   url: /PhotoGallery/
-#- title: Categories
-#  url: /categories/
+- title: Contact
+  url: /contact/
 #- title: Search
 #  url: /search/
 #- title: Fork Alembic
