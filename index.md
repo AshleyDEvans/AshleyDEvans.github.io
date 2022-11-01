@@ -11,9 +11,11 @@ I am an MS student in Fish, Wildlife, and Conservation Ecology at New Mexico Sta
 
 ### Hello! 
 
-<img align="right" src="Photos/RoubideauTelemetry_2021.jpg" alt="Image of Ashley" width = "400">
+<img align="right" src="Photos/RoubideauTelemetry_2021.jpg" alt="Image of Ashley" height = "250">
 
 My name is Ashley Evans.  I received Bachelor of Science degrees in both Fish and Wildlife Science and Natural Resource Sustainability Studies from Paul Smith’s College in 2016.  Throughout the course of my studies, I gained field experience in the classroom and through technician positions on various projects.  I conducted experimental trials to examine behavioral thermoregulation of spiny mountain lizards in New Mexico, collected genetic samples from black bears in Louisiana, raised orphaned mantled howler monkeys in Panama, and banded raptors in the Adirondack Mountains.  My senior capstone project was a management plan for the reintroduction of wolverine into Colorado.  I also left plenty of time for fun as I competed on the cross country, snowshoe racing, Nordic skiing, and marathon canoe racing teams at Paul Smith’s.
+
+<img align="center" src="Photos/SalOwlSheep.png" alt="Image a spotted salamander, sawhet owl, and desert bighorn" height = "250">
 
 After graduating summa cum laude, I moved to Bishop, California where I worked on the desert bighorn management program for California Department of Fish and Wildlife.  This is where I first experienced the complexity of state-level wildlife management and came to appreciate the collaboration, knowledge, and research required to make informed and effective management decisions.  I was involved in some really cool monitoring and management actions including flying helicopter surveys over desert ranges, monitoring water sources in sweltering summer temperatures, assisting with mule deer and desert bighorn captures, and checking out hunter-harvested rams.  I was exposed to the extreme temperatures and unforgiving but spectacular landscapes of the Mojave Desert where I was in awe of the adaptations that make life possible in such a harsh environment.  I gained invaluable experience during my time with CDFW and also made lifelong friends and lasting memories, but after four years, I wanted to be more involved in the research, management, and decision making of wildlife biology.  For me, the logical next step was graduate school.
 
