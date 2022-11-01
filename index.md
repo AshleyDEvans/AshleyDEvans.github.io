@@ -2,7 +2,7 @@
 title: About me
 feature_text: |
   # Ashley Evans
-feature_image: "/SitePhotos/Figure17.jpg"
+feature_image: "/Photos/BigDomDryFork_2019.jpg"
 excerpt: ""
 ---
 
