@@ -1,8 +1,10 @@
 ---
-format: page
-title: Photo Gallery
-
+title: 
+feature_text: |
+  ## Photo Gallery
+feature_image: "/Photos/LAOaks_2015.JPG"
 ---
+
 .gallery-block.grid-gallery{
   padding-bottom: 60px;
   padding-top: 60px;
@@ -24,7 +26,7 @@ title: Photo Gallery
   opacity: 0.8;
 }
 
-.gallery-block.grid-gallery .item img{
+.gallery-block.grid-gallery .item Photos{
   box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
   transition: 0.8s;
 }
