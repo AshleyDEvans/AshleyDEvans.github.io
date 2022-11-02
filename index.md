@@ -1,7 +1,7 @@
 ---
 title: About me
 feature_text: |
-  # <span style="background-color: #FFFFFF">Ashley Evans</span>
+  # <span style="background-color: #242e2b" style="color: #FFFFFF">Ashley Evans</span>
 feature_image: "/Photos/BigDomDryFork_2019.jpg"
 excerpt: ""
 ---
