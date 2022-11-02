@@ -1,6 +1,7 @@
 ---
 layout: Page
 title: "Contact Me"
+permalink: /contact/
 ---
 
 ## Feel free to reach out to me!
