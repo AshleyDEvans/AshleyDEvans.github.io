@@ -6,7 +6,7 @@ feature_image: "/Photos/BigDomDryFork_2019.jpg"
 excerpt: ""
 ---
 
-I am an MS student in Fish, Wildlife, and Conservation Ecology at New Mexico State University, advised by Dr. James Cain.  My interests lie in large mammal ecology, human-wildlife interactions, and wildlife management.
+I am a recent graduate of New Mexico State University with a Master's degree in Fish, Wildlife, and Conservation Ecology.  My interests lie in large mammal ecology, spatial ecology, human-wildlife interactions, and wildlife management.
 
 
 ### Hello! 
